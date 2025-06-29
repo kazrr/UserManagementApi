@@ -1,0 +1,7 @@
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.csproj.AssemblyReference.cache
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.AssemblyInfoInputs.cache
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.AssemblyInfo.cs
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.csproj.CoreCompileInputs.cache
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.MvcApplicationPartsAssemblyInfo.cs
+/home/kadev/Documents/middleware_copilot/UserManagementApi/obj/Debug/net6.0/UserManagementApi.MvcApplicationPartsAssemblyInfo.cache
